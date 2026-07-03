@@ -115,8 +115,4 @@ python loan_default_prediction.py
 - `matplotlib` & `seaborn` — data visualisation
 - `scikit-learn` — machine learning models and evaluation
 
----
 
-## Author
-**HARSH KUMAR PATEL**
-Machine Learning Course Project — 2025
